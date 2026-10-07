@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div {
+    width: 1432px;
+    height: 815px;
+    padding:80px;
+    background-color: lime;
+}

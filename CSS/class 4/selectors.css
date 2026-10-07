@@ -1,0 +1,25 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+font-style: italic;
+}
+.card {
+padding: 20px;
+background-color: orange;
+}
+.big{
+padding: 40px;
+}
+.bg-green{
+background-color: green;
+}
+.big.bg-green {
+    background-color: blue;
+}
+.text-underline {
+    text-decoration: underline;
+}
+#ok {
+    color: magenta;
+}

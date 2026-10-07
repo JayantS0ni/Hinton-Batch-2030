@@ -1,0 +1,22 @@
+* {
+margin: 0px;
+padding: 0px;
+}
+.item-1{
+height: 800px;
+width: 400px;
+background-color: orange;
+}
+.item-2{
+height: 800px;
+width: 60%;
+background-color: green;
+}
+.item-3{
+height: 800px;
+width: 60vw;
+background-color: blue;
+}
+body {
+    width: 700px;
+}

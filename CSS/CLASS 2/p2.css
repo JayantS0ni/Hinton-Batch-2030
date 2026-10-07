@@ -1,0 +1,49 @@
+.hb {
+    height: 200px;
+    border: 10px solid lightblue;
+    background-color: aqua;
+    border-radius: 40px;
+    width: 500px;
+    text-decoration: underline wavy;
+    padding: 20px;
+    font-family: "Playwrite CU Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.hi {
+    border: 10px solid green;
+    width: 500px;
+    height: 150px;
+    padding: 20px;
+    background-color: greenyellow;
+    border-radius: 40px;
+    text-decoration: overline dotted;
+    font-family: "Edu QLD Hand", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.hy {
+    border: 10px solid green;
+    width: 500px;
+    height: 70px;
+    padding: 20px;
+    background-color: greenyellow;
+    border-radius: 40px;
+    text-decoration: underline;
+    font-family: monospace; 
+}
+a {
+    text-decoration: overline underline wavy;
+    color: yellowgreen;
+    font-size: 70px;
+    font-weight: 600;
+
+}
+.ja {
+    background-color: lightcoral;
+    height: 10000px;
+    width: 10000px;
+}

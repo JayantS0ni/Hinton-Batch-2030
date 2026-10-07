@@ -1,0 +1,17 @@
+h2{
+    color:red;
+}
+#title{
+    color:chocolate;
+}
+p{
+    color:cadetblue;
+    background-color: darkblue;
+}
+.special-text{
+    color:darkviolet;
+}
+span{
+    color:brown;
+    background-color: yellow;
+}

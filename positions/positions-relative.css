@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+div{
+    width: 250px;
+    height: 250px;
+    border: 4px solid black;
+}
+.item-1{
+    background-color: aqua;
+
+    position:relative;
+    left:100px;
+    top:100px;
+    z-index: 1;
+}
+.item-2{
+    background-color: violet;
+
+}
+.parent{
+    position: relative;
+    color:aquamarine
+}
